@@ -27,9 +27,76 @@
 
 ### 2.- MARCO TEORICO:
 
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/MARCO%20TEORICO1.png)
 
 
 ### 3.-DIAGRAMAS:
+
+- Diagrama de un transformador basico:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20un%20tranformador%20basico.png)
+
+Figura 3.1
+
+
+- Diagrama de las direcciones de los devanados:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20las%20direcciones%20de%20los%20devanados.png)
+
+Figura 3.2
+
+
+
+- Ecuacion de los Transformadores Elevadores y Reductores:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Ecuacion%20para%20transformadores%20reductores%20o%20elevadores..png)
+
+Figura 3.3
+
+
+
+
+- Diagrama de los devadanos secundarios:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20del%20devanado%20secundario.png)
+
+Figura 3.4
+
+
+- Diagramas de la Carga Reflejada:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20Carga%20reflejada.png)
+
+Figura 3.5
+
+
+- Diagrama de la igualacion de Impedancia:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20Igualacion%20de%20impedancia.png)
+
+Figura 3.6
+
+
+- Diagrama de Multiples Devanados:
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20multiples%20devanados.png)
+
+Figura 3.7
+
+
+- Diagrama de los Autotransformadores:
+
+
+![](https://github.com/JonathanGuaman/Trabajo-de-Investigacion-3/blob/main/Marco%20Teorico/Diagrama%20de%20autotransformadores.png)
+
+
+
+
+
+
+
+
+
 
 
 ### 4.-CONCLUSIONES:
